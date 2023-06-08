@@ -1,0 +1,5 @@
+bpass-2.3-bin_chabrier03-0,300_alpha0.0_cloudy-v17.03-resolution0.1
+bpass-2.3-bin_chabrier03-0,300_alpha-0.2_cloudy-v17.03-resolution0.1
+bpass-2.3-bin_chabrier03-0,300_alpha0.2_cloudy-v17.03-resolution0.1
+bpass-2.3-bin_chabrier03-0,300_alpha0.4_cloudy-v17.03-resolution0.1
+bpass-2.3-bin_chabrier03-0,300_alpha0.6_cloudy-v17.03-resolution0.1
