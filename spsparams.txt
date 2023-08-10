@@ -1,5 +1,1 @@
-bpass-2.3-bin_chabrier03-0,300_alpha0.0 high_resolution
-bpass-2.3-bin_chabrier03-0,300_alpha-0.2 high_resolution
-bpass-2.3-bin_chabrier03-0,300_alpha0.2 high_resolution
-bpass-2.3-bin_chabrier03-0,300_alpha0.4 high_resolution
-bpass-2.3-bin_chabrier03-0,300_alpha0.6 high_resolution
+bpass-2.2.1-bin_chabrier03-0.1,100.0 c17.03
