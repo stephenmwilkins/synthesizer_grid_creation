@@ -31,7 +31,7 @@
 
 synthesizer_dir="/research/astrodata/highz/synthesizer/" # apollo
 machine="apollo"
-c=$CLOUDY
+c="/research/astro/flare/software/cloudy/"
 
 # increment array task ID so not zero indexed
 let index=$SGE_TASK_ID
