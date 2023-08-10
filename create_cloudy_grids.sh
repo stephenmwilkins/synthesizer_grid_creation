@@ -5,7 +5,7 @@
 # synthesizer_dir="/Users/stephenwilkins/Dropbox/Research/data/synthesizer/"
 synthesizer_dir="/research/astrodata/highz/synthesizer/" # apollo
 machine="apollo"
-c=$CLOUDY17
+c=$CLOUDY
 
 cd ..
 while IFS="" read -r p || [ -n "$p" ]
