@@ -17,4 +17,4 @@ do
   printf '%s\n' "$params"
   echo python3 create_cloudy_input_grid.py -synthesizer_data_dir $synthesizer_dir -machine $machine -sps_grid $sps  -cloudy_grid $params.yaml  -cloudy_path $c
   python3 create_cloudy_input_grid.py -synthesizer_data_dir $synthesizer_dir -machine $machine -sps_grid $sps  -cloudy_grid params/$params.yaml  -cloudy_path $c
-done < spsparams.txt
+done < synthesizer_grid_creation_scripts/spsparams.txt
